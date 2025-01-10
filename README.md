@@ -9,7 +9,7 @@
 
 
 ## 🔭 I’m currently working on
-- Express.js API and database at [Componental](https://github.com/Componental)
+- Express.js API and PostgreSQL database at [Componental](https://github.com/Componental)
 - Building a MIDI controller based on Arduino [MIDI Arduino](https://github.com/MarLaslo/midi_arduino)
 - PostgreSQL, C# and React based movie database [Repository](https://github.com/RUC-MSc-CS-CIT-2024)
 
