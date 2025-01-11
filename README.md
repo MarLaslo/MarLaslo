@@ -17,7 +17,7 @@
 
 ## 🌱 I’m currently studying
 - MSc Computer Science at Roskilde University [Link](https://ruc.dk/en/master/computer-science)
-- Hack Audio Introduction to Matlab DSP [Link](https://www.taylorfrancis.com/books/mono/10.4324/9781351018463/hack-audio-eric-tarr)
+- Digital Signal Processing
 
   
 <!--
