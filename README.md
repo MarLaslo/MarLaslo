@@ -17,6 +17,7 @@
 
 ## 🌱 I’m currently studying
 - MSc Computer Science at Roskilde University [Link](https://ruc.dk/en/master/computer-science)
+  - Complex IT Systems and Data Science
 - Digital Signal Processing
 
   
